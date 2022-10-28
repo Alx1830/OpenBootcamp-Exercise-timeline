@@ -1,0 +1,19 @@
+/*Estilos para colores*/
+.encabezado {
+    color: white;
+    background-color: #8d21f1;
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/024/538/892/large/pixel-jeff-version2.jpg?1582740652);
+}
+
+/* Tarjeta */
+.tarjeta {
+    color: white;
+    background-color: blueviolet;
+    border-radius: 40px;
+    width: 200px;
+    height: 150px;
+    border-width: 2px;
+    padding: 10px 20px 5px 20px;
+    margin: 10px;
+    text-align: center;
+}
